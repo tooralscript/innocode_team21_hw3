@@ -1,0 +1,125 @@
+* {
+    box-sizing: border-box;
+    margin: 10;
+    padding: 10;
+    font-family: sans-serif;
+}
+
+body {
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+
+body {
+    margin: 0;
+}
+
+
+.hero__container {
+    display: block;
+    background-color: #212133;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.nav__list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 90px;
+}
+
+.nav__list-item:not(:last-child) {
+    margin-right: 85px;
+}
+
+.nav__list-link {
+    height: 50px;
+    border: 4px solid;
+    border-radius: 10px;
+    border-color: #6DB5E7;
+    padding: 8px;
+    color: #FFF;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 45px;
+}
+
+.nav__list-image-1 {
+    background-image: url(group1.png);
+    background-size: 64px 64px;
+}
+
+.nav__list-image-2 {
+    background-image: url(earth.png);
+    background-size: 64px 64px;
+}
+
+.nav__list-image-3 {
+    background-image: url(shtrix.png);
+    background-size: 64px 64px;
+}
+
+.team__heading {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 30px;
+    color: #fff;
+}
+
+.intro_line {
+    text-align: center;
+    border-top: 3px dotted #fff;
+}
+
+body {
+    background-color: #212133;
+}
+
+title {
+    color: white;
+}
+
+h1.team__heading{
+    border-radius: 10px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 700px;
+    border: solid yellow;
+    font-family: "Archivo Black";
+    font-weight: 100;
+    font-size: 50px;
+    color: #6DB5E7;
+}
+
+p.intro{
+    font-family: 'Fuzzy Bubbles', cursive;
+    margin-right: 40px;
+    margin-left: 40px;
+    text-align: justify;
+    padding-top: 10px;
+    color: white;
+    font-size: 30px;
+}

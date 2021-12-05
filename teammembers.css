@@ -1,0 +1,190 @@
+h1.head{
+	padding-top: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	border-color: #FFDE59;
+	width: 1000px;
+	padding:  8px;
+	text-align: center;
+	border-style: ridge;
+	border-radius: 25%;
+	border-width: 8px;
+	font-family: 'Archivo Black' , sans-serif;
+	font-size: 65px;
+	color: #1DF7FF;
+	size: 100%;
+
+}
+
+
+figcaption.Ehtiram{
+	color: white;
+	padding-left: 500px;
+}
+
+
+body{
+	background-color: #212133;
+}
+
+img.Ehtiram{
+	position: absolute;
+	display: block;
+	padding-left: 8px;
+	border-radius: 10%;
+	width: 350px;
+	height: 300px;
+}
+
+p.Ehtiram{
+	font-family: 'Space Mono', monospace;
+	font-size: 30px;
+	text-align: justify;
+	color: white;
+	margin-left: 380px;
+	margin-right: 10px;
+}
+p.Ehtiramlink{
+	font-family: 'Space Mono', monospace;
+	font-size: 30px;
+	text-align: justify;
+	color: white;
+	margin-left: 380px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+
+a.Ehtiramlink{
+	font-weight: bold;
+	font-size: 35px;
+	color: #BF15EF;
+}
+
+img.arrow1{
+	
+	display: flex;
+	margin-left: auto;
+    margin-right: auto;
+	width: 150px;
+	height: 150px;
+
+}
+
+img.Ramil{
+	position: relative;
+	float: right;
+	display: block;
+	margin-left: 8px;
+	border-radius: 10%;
+	width: 350px;
+	height: 300px;
+}
+
+p.Ramil{
+	font-family: 'Space Mono', monospace;
+	font-size: 30px;
+	text-align: justify;
+	color: white;
+	margin-right: 380px;
+	margin-left: 10px;
+}
+p.Ramillink{
+	font-family: 'Space Mono', monospace;
+	font-size: 30px;
+	text-align: right;
+	color: white;
+	margin-right: 380px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+
+a.Ramillink{
+	font-weight: bold;
+	font-size: 35px;
+	color: #5CE1E6;
+}
+
+img.arrow2{
+	display: flex;
+	margin-left: auto;
+    margin-right: auto;
+	width: 150px;
+	height: 150px;
+}
+
+img.Sharif{
+	position: absolute;
+	display: block;
+	padding-left: 8px;
+	border-radius: 10%;
+	width: 350px;
+	height: 300px;
+}
+
+p.Sharif{
+	font-family: 'Space Mono', monospace;
+	font-size: 30px;
+	text-align: justify;
+	color: white;
+	margin-left: 380px;
+	margin-right: 10px;
+}
+p.Shariflink{
+	font-family: 'Space Mono', monospace;
+	font-size: 30px;
+	text-align: justify;
+	color: white;
+	margin-left: 380px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+
+a.Shariflink{
+	font-weight: bold;
+	font-size: 35px;
+	color: #FF1C6D
+}
+
+img.arrow1{
+	
+	display: flex;
+	margin-left: auto;
+    margin-right: auto;
+	width: 150px;
+	height: 150px;
+
+}
+img.Tural{
+	position: relative;
+	float: right;
+	display: block;
+	margin-left: 8px;
+	border-radius: 10%;
+	width: 350px;
+	height: 300px;
+}
+
+p.Tural{
+	font-family: 'Space Mono', monospace;
+	font-size: 30px;
+	text-align: justify;
+	color: white;
+	margin-right: 380px;
+	margin-left: 10px;
+}
+p.Turallink{
+	font-family: 'Space Mono', monospace;
+	font-size: 30px;
+	text-align: right;
+	color: white;
+	margin-right: 380px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	
+}
+
+a.Turallink{
+	font-weight: bold;
+	font-size: 35px;
+	color: #FFDE57;
+}

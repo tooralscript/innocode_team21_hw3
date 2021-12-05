@@ -1,0 +1,117 @@
+img.logo{
+	padding: 10px;
+	border: ridge 6px whitesmoke;
+	display: flex;
+	margin-right: auto;
+	margin-left: auto;
+	width: 350px;
+	height: 175px;
+}
+body{
+	background-color: #212133;
+
+}
+
+p{
+	color: white;
+}
+
+h1{
+	color: #83FFD6;
+	font-size: 55px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: "Lobster";
+	text-align: center;
+	padding-bottom: 10px;
+
+}
+
+h2.first{
+	padding: 10px;
+	border: ridge 6px #DE79FA;
+	border-radius: 7px;
+	text-align: center;
+	width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family:  'Dancing Script', cursive;
+	font-size: 50px;
+	color: #FFDE59;
+}
+
+p.first{
+	font-size: 30px;
+	padding-top: 29px;
+	text-align: justify;
+	margin-left: 350px;
+	margin-right: 15px;
+}
+
+
+img.communication{
+	position: absolute;
+	display: block;
+	width: 300px;
+	height: 300px;
+}
+
+h2.second{
+	padding: 10px;
+	border: ridge 6px #FF9DDB;
+	border-radius: 7px;
+	text-align: center;
+	width: 875px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family:  'Dancing Script', cursive;
+	font-size: 50px;
+	color: #1AF8D0;
+}
+
+img.brainstorming{
+	float: right;
+	width: 300px;
+	height: 300px;
+}
+
+p.second{
+	font-size: 30px;
+	padding-top: 25px;
+	text-align: justify;
+	margin-right: 350px;
+	margin-left: 15px;
+}
+
+
+h2.third{
+	padding: 10px;
+	border: ridge 6px #83FFD6;
+	border-radius: 7px;
+	text-align: center;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family:  'Dancing Script', cursive;
+	font-size: 50px;
+	color: #81DB0F;
+}
+
+p.third{
+	font-size: 30px;
+	padding-top: 25px;
+	text-align: justify;
+	margin-left: 350px;
+	margin-right: 15px;
+}
+
+img.decision{
+	position: absolute;
+	display: block;
+	width: 300px;
+	height: 300px;
+}
+
+
+
+
